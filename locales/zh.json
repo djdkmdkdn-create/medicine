@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "首页",
+    "appointments": "预约",
+    "login": "登录",
+    "logout": "退出",
+    "register": "注册"
+  },
+  "home": {
+    "welcome": "欢迎使用MyDoctor",
+    "subtitle": "预约您所在地区最好的医生",
+    "findDoctor": "寻找医生"
+  },
+  "doctors": {
+    "title": "我们的医生",
+    "all": "所有医生",
+    "book": "预约",
+    "experience": "{years}年经验",
+    "age": "年龄: {age}",
+    "price": "咨询费: ${price}",
+    "available": "可预约时间"
+  },
+  "appointments": {
+    "title": "我的预约",
+    "empty": "暂无预约",
+    "emptyDesc": "预约我们的医生进行第一次就诊",
+    "cancel": "取消",
+    "confirm": "确认预约",
+    "selectDate": "选择日期",
+    "selectTime": "选择时间",
+    "bookedSuccess": "预约成功！",
+    "cancelledSuccess": "已成功取消预约！",
+    "alreadyBooked": "您在此时间已有预约",
+    "date": "日期",
+    "time": "时间"
+  },
+  "auth": {
+    "loginTitle": "登录",
+    "registerTitle": "创建账户",
+    "email": "电子邮箱",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "loginBtn": "登录",
+    "registerBtn": "创建账户",
+    "noAccount": "没有账户？",
+    "hasAccount": "已有账户？",
+    "forgotPassword": "忘记密码？",
+    "loginSuccess": "登录成功！",
+    "registerSuccess": "账户创建成功！",
+    "logoutSuccess": "退出成功！",
+    "loginError": "邮箱或密码错误",
+    "registerError": "创建账户失败",
+    "passwordMismatch": "密码不匹配"
+  },
+  "validation": {
+    "required": "此字段为必填项",
+    "invalidEmail": "请输入有效的邮箱地址",
+    "minPassword": "密码至少需要6个字符"
+  },
+  "filter": {
+    "all": "全部",
+    "cardiologist": "心脏科医生",
+    "pediatrician": "儿科医生",
+    "dermatologist": "皮肤科医生",
+    "neurologist": "神经科医生",
+    "orthopedist": "骨科医生",
+    "psychiatrist": "精神科医生",
+    "ophthalmologist": "眼科医生"
+  },
+  "loading": {
+    "loading": "加载中...",
+    "booking": "预约中..."
+  },
+  "modal": {
+    "close": "关闭",
+    "bookingTitle": "预约 {doctor}"
+  },
+  "language": {
+    "select": "语言"
+  },
+  "footer": {
+    "rights": "版权所有"
+  }
+}

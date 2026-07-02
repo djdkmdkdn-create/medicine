@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Home",
+    "appointments": "Appointments",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register"
+  },
+  "home": {
+    "welcome": "Welcome to MyDoctor",
+    "subtitle": "Book appointments with the best doctors in your area",
+    "findDoctor": "Find a Doctor"
+  },
+  "doctors": {
+    "title": "Our Doctors",
+    "all": "All Doctors",
+    "book": "Book Appointment",
+    "experience": "{years} years experience",
+    "age": "Age: {age}",
+    "price": "Consultation: ${price}",
+    "available": "Available Times"
+  },
+  "appointments": {
+    "title": "My Appointments",
+    "empty": "No appointments yet",
+    "emptyDesc": "Book your first appointment with one of our doctors",
+    "cancel": "Cancel",
+    "confirm": "Confirm Appointment",
+    "selectDate": "Select Date",
+    "selectTime": "Select Time",
+    "bookedSuccess": "Appointment booked successfully!",
+    "cancelledSuccess": "Appointment cancelled successfully!",
+    "alreadyBooked": "You already have an appointment at this time",
+    "date": "Date",
+    "time": "Time"
+  },
+  "auth": {
+    "loginTitle": "Sign In",
+    "registerTitle": "Create Account",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "loginBtn": "Sign In",
+    "registerBtn": "Create Account",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "forgotPassword": "Forgot password?",
+    "loginSuccess": "Successfully logged in!",
+    "registerSuccess": "Account created successfully!",
+    "logoutSuccess": "Successfully logged out!",
+    "loginError": "Invalid email or password",
+    "registerError": "Failed to create account",
+    "passwordMismatch": "Passwords do not match"
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email",
+    "minPassword": "Password must be at least 6 characters"
+  },
+  "filter": {
+    "all": "All",
+    "cardiologist": "Cardiologist",
+    "pediatrician": "Pediatrician",
+    "dermatologist": "Dermatologist",
+    "neurologist": "Neurologist",
+    "orthopedist": "Orthopedist",
+    "psychiatrist": "Psychiatrist",
+    "ophthalmologist": "Ophthalmologist"
+  },
+  "loading": {
+    "loading": "Loading...",
+    "booking": "Booking..."
+  },
+  "modal": {
+    "close": "Close",
+    "bookingTitle": "Book Appointment with {doctor}"
+  },
+  "language": {
+    "select": "Language"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}

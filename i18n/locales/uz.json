@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "appointments": "Uchrashuvlar",
+    "login": "Kirish",
+    "logout": "Chiqish",
+    "register": "Ro'yxatdan o'tish"
+  },
+  "home": {
+    "welcome": "MyDoctor'ga xush kelibsiz",
+    "subtitle": "Hududingizdagi eng yaxshi shifokorlarga yoziling",
+    "findDoctor": "Shifokor topish"
+  },
+  "doctors": {
+    "title": "Bizning shifokorlar",
+    "all": "Barcha shifokorlar",
+    "book": "Yozilish",
+    "experience": "{years} yillik tajriba",
+    "age": "Yoshi: {age}",
+    "price": "Maslahat: ${price}",
+    "available": "Mavjud vaqtlar"
+  },
+  "appointments": {
+    "title": "Mening uchrashuvlarim",
+    "empty": "Uchrashuvlar yo'q",
+    "emptyDesc": "Bizning shifokorlardan biriga birinchi uchrashuvingizni yozing",
+    "cancel": "Bekor qilish",
+    "confirm": "Uchrashuvni tasdiqlash",
+    "selectDate": "Sanani tanlang",
+    "selectTime": "Vaqtini tanlang",
+    "bookedSuccess": "Uchrashuv muvaffaqiyatli yozildi!",
+    "cancelledSuccess": "Uchrashuv muvaffaqiyatli bekor qilindi!",
+    "alreadyBooked": "Sizda bu vaqtda allaqachon uchrashuv bor",
+    "date": "Sana",
+    "time": "Vaqt"
+  },
+  "auth": {
+    "loginTitle": "Tizimga kirish",
+    "registerTitle": "Hisob yaratish",
+    "email": "Elektron pochta",
+    "password": "Parol",
+    "confirmPassword": "Parolni tasdiqlash",
+    "loginBtn": "Kirish",
+    "registerBtn": "Hisob yaratish",
+    "noAccount": "Hisobingiz yo'qmi?",
+    "hasAccount": "Hisobingiz bormi?",
+    "forgotPassword": "Parolni unutdingizmi?",
+    "loginSuccess": "Muvaffaqiyatli kirildingiz!",
+    "registerSuccess": "Hisob muvaffaqiyatli yaratildi!",
+    "logoutSuccess": "Muvaffaqiyatli chiqdingiz!",
+    "loginError": "Email yoki parol noto'g'ri",
+    "registerError": "Hisob yaratib bo'lmadi",
+    "passwordMismatch": "Parollar mos kelmaydi"
+  },
+  "validation": {
+    "required": "Bu maydon to'ldirilishi shart",
+    "invalidEmail": "To'g'ri email kiriting",
+    "minPassword": "Parol kamida 6 ta belgidan iborat bo'lishi kerak"
+  },
+  "filter": {
+    "all": "Hammasi",
+    "cardiologist": "Kardiolog",
+    "pediatrician": "Pediatriya shifokori",
+    "dermatologist": "Dermatolog",
+    "neurologist": "Nevrolog",
+    "orthopedist": "Ortoped",
+    "psychiatrist": "Psixiatr",
+    "ophthalmologist": "Oftalmolog"
+  },
+  "loading": {
+    "loading": "Yuklanmoqda...",
+    "booking": "Yozilmoqda..."
+  },
+  "modal": {
+    "close": "Yopish",
+    "bookingTitle": "{doctor} ga yozilish"
+  },
+  "language": {
+    "select": "Til"
+  },
+  "footer": {
+    "rights": "Barcha huquqlar himoyalangan"
+  }
+}

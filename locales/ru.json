@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Главная",
+    "appointments": "Записи",
+    "login": "Войти",
+    "logout": "Выйти",
+    "register": "Регистрация"
+  },
+  "home": {
+    "welcome": "Добро пожаловать в MyDoctor",
+    "subtitle": "Запишитесь на прием к лучшим врачам вашего города",
+    "findDoctor": "Найти врача"
+  },
+  "doctors": {
+    "title": "Наши врачи",
+    "all": "Все врачи",
+    "book": "Записаться",
+    "experience": "{years} лет опыта",
+    "age": "Возраст: {age}",
+    "price": "Консультация: ${price}",
+    "available": "Время приема"
+  },
+  "appointments": {
+    "title": "Мои записи",
+    "empty": "Записей нет",
+    "emptyDesc": "Запишитесь на первый прием к одному из наших врачей",
+    "cancel": "Отменить",
+    "confirm": "Подтвердить запись",
+    "selectDate": "Выберите дату",
+    "selectTime": "Выберите время",
+    "bookedSuccess": "Запись успешно оформлена!",
+    "cancelledSuccess": "Запись успешно отменена!",
+    "alreadyBooked": "У вас уже есть запись на это время",
+    "date": "Дата",
+    "time": "Время"
+  },
+  "auth": {
+    "loginTitle": "Войти в аккаунт",
+    "registerTitle": "Создать аккаунт",
+    "email": "Электронная почта",
+    "password": "Пароль",
+    "confirmPassword": "Подтвердите пароль",
+    "loginBtn": "Войти",
+    "registerBtn": "Создать аккаунт",
+    "noAccount": "Нет аккаунта?",
+    "hasAccount": "Уже есть аккаунт?",
+    "forgotPassword": "Забыли пароль?",
+    "loginSuccess": "Успешный вход!",
+    "registerSuccess": "Аккаунт успешно создан!",
+    "logoutSuccess": "Успешный выход!",
+    "loginError": "Неверный email или пароль",
+    "registerError": "Не удалось создать аккаунт",
+    "passwordMismatch": "Пароли не совпадают"
+  },
+  "validation": {
+    "required": "Это поле обязательно",
+    "invalidEmail": "Введите корректный email",
+    "minPassword": "Пароль должен быть не менее 6 символов"
+  },
+  "filter": {
+    "all": "Все",
+    "cardiologist": "Кардиолог",
+    "pediatrician": "Педиатр",
+    "dermatologist": "Дерматолог",
+    "neurologist": "Невролог",
+    "orthopedist": "Ортопед",
+    "psychiatrist": "Психиатр",
+    "ophthalmologist": "Офтальмолог"
+  },
+  "loading": {
+    "loading": "Загрузка...",
+    "booking": "Запись..."
+  },
+  "modal": {
+    "close": "Закрыть",
+    "bookingTitle": "Запись к {doctor}"
+  },
+  "language": {
+    "select": "Язык"
+  },
+  "footer": {
+    "rights": "Все права защищены"
+  }
+}

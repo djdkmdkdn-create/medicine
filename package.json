@@ -1,0 +1,23 @@
+{
+  "name": "mydoctor",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/i18n": "^10.4.0",
+    "@pinia/nuxt": "^0.5.5",
+    "@vueuse/core": "^14.3.0",
+    "firebase": "^10.14.1",
+    "nuxt": "^4.4.8",
+    "pinia": "^2.3.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.14.0"
+  }
+}
